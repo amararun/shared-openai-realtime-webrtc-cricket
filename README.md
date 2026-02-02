@@ -215,3 +215,9 @@ Common issues and solutions:
 MIT License - Feel free to use and modify as needed.
 
 ---
+
+## Author
+
+Built by [Amar Harolikar](https://www.linkedin.com/in/amarharolikar/)
+
+Explore 30+ open source AI tools for analytics, databases & automation at [tigzig.com](https://tigzig.com)
